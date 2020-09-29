@@ -1,4 +1,4 @@
-# run kotlin on terminal
+ #run kotlin on terminal
 
 kotlinc <file_name.kt> -include-runtime -d <file-name.jar> //for compile
 
